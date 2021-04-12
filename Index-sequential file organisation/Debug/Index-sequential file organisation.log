@@ -1,0 +1,8 @@
+﻿  File.cpp
+  globals.cpp
+  Index.cpp
+  main.cpp
+C:\Users\asus\source\repos\Index-sequential file organisation\Index-sequential file organisation\main.cpp(11,6): warning C4101: "choice": lokalna zmienna, do której nie istnieje odwołanie
+  Record.cpp
+  Generowanie kodu...
+  Index-sequential file organisation.vcxproj -> C:\Users\asus\source\repos\Index-sequential file organisation\Debug\Index-sequential file organisation.exe
