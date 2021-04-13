@@ -15,7 +15,7 @@ The aim of the project was to design and implement the indexed file organization
 
 ## Getting Started
 Clone the repository  
-`git clone https://github.com/RozaliaSolecka/Index-sequential-file-organisation.git
+`git clone https://github.com/RozaliaSolecka/Index-sequential-file-organisation.git`
   
 Open project in your favourite IDE.   
   
